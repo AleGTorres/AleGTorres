@@ -1,20 +1,19 @@
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: 0px; background: transparent; border-collapse: collapse;">
-    <tr style="background: transparent;">
-      <td style="border: 0px; padding-right: 20px; vertical-align: middle;">
-        <img src="https://raw.githubusercontent.com/AleGTorres/AleGTorres/main/assets/batman.gif" width="150" />
-      </td>
-      <td style="border: 0px; vertical-align: middle; text-align: left;">
-        <h1 style="margin-top: 0; margin-bottom: 5px;">Hey 👾 I'm Alexandre Torres!</h1>
-        <p style="margin-top: 0; margin-bottom: 10px;">
-          <a href="https://linkedin.com/in/alexandre-torres-b00a62274"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-          <a href="mailto:ale.gtorres0710@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        </p>
-        <p style="margin: 0;"><b>QA Analyst & Software Engineering Student @ UFMS</b></p>
-        <p style="margin: 0;"><i>"Quality is not an act, it is a habit."</i> — I catch bugs before they become problems. 🦇</p>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px; border: none !important;">
+  
+  <div style="flex: 0 0 auto;">
+    <img src="https://raw.githubusercontent.com/AleGTorres/AleGTorres/main/assets/batman.gif" width="150" />
+  </div>
+
+  <div style="text-align: left;">
+    <h1 style="margin-top: 0; margin-bottom: 5px;">Hey 👾 I'm Alexandre Torres!</h1>
+    <p style="margin-top: 0; margin-bottom: 10px;">
+      <a href="https://linkedin.com/in/alexandre-torres-b00a62274"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="mailto:ale.gtorres0710@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    </p>
+    <p style="margin: 0;"><b>QA Analyst & Software Engineering Student @ UFMS</b></p>
+    <p style="margin: 0;"><i>I catch bugs before they become problems. 🦇</i></p>
+  </div>
+
 </div>
 
 <hr>
