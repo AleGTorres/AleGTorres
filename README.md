@@ -23,7 +23,7 @@
 ```yaml
 Name:     Alexandre Gonçalves Torres
 Role:     QA Analyst | Future QA Engineer / SDET
-Location: Campo Grande, MS 🇧🇷
+Location: Campo Grande, MS - Brazil
 Study:    Software Engineering @ UFMS (graduation: Dec/2026)
 Focus:    Test Automation • CI/CD • API Testing • BDD
 English:  Intermediate (technical reading/writing)
