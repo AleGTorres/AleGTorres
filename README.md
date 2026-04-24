@@ -74,6 +74,4 @@ English:  Intermediate (technical reading/writing)
 - 🤝 Teams that value **test automation**, **CI/CD quality gates**, and **BDD**
 - 🌍 Remote-friendly or Campo Grande, MS
 
----
-
 </div>
