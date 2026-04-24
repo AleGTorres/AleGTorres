@@ -1,19 +1,23 @@
 <div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border: 0px; background: transparent; border-collapse: collapse;">
+    <tr style="background: transparent;">
+      <td style="border: 0px; padding-right: 20px; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/AleGTorres/AleGTorres/main/assets/batman.gif" width="150" />
+      </td>
+      <td style="border: 0px; vertical-align: middle; text-align: left;">
+        <h1 style="margin-top: 0; margin-bottom: 5px;">Hey 👾 I'm Alexandre Torres!</h1>
+        <p style="margin-top: 0; margin-bottom: 10px;">
+          <a href="https://linkedin.com/in/alexandre-torres-b00a62274"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+          <a href="mailto:ale.gtorres0710@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        </p>
+        <p style="margin: 0;"><b>QA Analyst & Software Engineering Student @ UFMS</b></p>
+        <p style="margin: 0;"><i>"Quality is not an act, it is a habit."</i> — I catch bugs before they become problems. 🦇</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="[https://www.deviantart.com/thebigfan2023/art/Batman-Making-pose-976134826]" 
-     alt="Batman Pixel Art" 
-     width="150" />
-
-# Hey 👾 I'm Alexandre Torres!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-torres-b00a62274)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ale.gtorres0710@gmail.com)
-
-**QA Analyst & Software Engineering Student @ UFMS**
-
-> *"Quality is not an act, it is a habit."* — I catch bugs before they become problems. 🦇
-
----
+<hr>
 
 ## 🦇 About Me
 
